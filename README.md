@@ -30,9 +30,7 @@ As an Electronics Engineer with a passion for emerging technologies, I stay curr
 <img align="left" alt= "access" width="40" src="logos/access.png"   /></a>
 <img align="left" alt= "sql_logo" width="40" src="logos/sql_logo.png"   />
 <img align="left" alt= "my_sql_logo" width="40" src="logos/my_sql_logo.png"   />
-<img align="left" alt= "ibm_Db2" height = "40" width="60" src="logos/ibm_Db2.jfif"   />
 <img align="left" alt= "Power BI" height = "45" width="50" src="logos/P_BI.png"  /></a>
-<img align="left" alt= "IBM Cognos" height = "35" width="55" src="logos/ibm_cognos.jfif" />
 
 
 <br />
