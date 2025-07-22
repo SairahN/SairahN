@@ -9,7 +9,7 @@ As an Electronics Engineer with a passion for emerging technologies, I stay curr
 </br>✨ Activities I do: badminton🏸 aerobics 🏃‍♀️ hiking 🥾 ice skating ⛸️ and an avid traveller 
 
 ## My current Focus
-- IT Systems | Data Analytics | Technical Project Management | Business Intelligence (BI)|Cloud Computing
+- IT Systems | Data Analytics | Technical Project Management | Business Intelligence (BI) | Cloud Computing
 - Proficient in using Python libraries for data analysis and visualization, and skilled in SQL for effective data manipulation.
 - Engaged in personal projects focused on database management, exploratory data analysis, and developing dashboards and reports with BI tools.
 
